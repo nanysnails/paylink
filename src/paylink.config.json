@@ -2,28 +2,28 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Nany's Nails",
+    "description": "La felicidad está en tus manos",
+    "alt": "Photo of Nany's Nails",
+    "hero": "./images/nanys-nails.png"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
-    { "label": "Facebook", "type": "facebook", "link": "" },
+    { "label": "Facebook", "type": "facebook", "link": "https://www.facebook.com/profile.php?id=100073494560137" },
     { "label": "Medium", "type": "medium", "link": "" },
     { "label": "Pinterest", "type": "pinterest", "link": "" },
     { "label": "Snapchat", "type": "snapchat", "link": "" },
-    { "label": "Telegram", "type": "telegram", "link": "" },
+    { "label": "Telegram", "type": "telegram", "link": "https://t.me/ElianisNany" },
     { "label": "TikTok", "type": "tiktok", "link": "" },
     { "label": "Twitch", "type": "twitch", "link": "" },
     { "label": "Vimeo", "type": "vimeo", "link": "" },
-    { "label": "WhatsApp", "type": "whatsapp", "link": "" },
+    { "label": "WhatsApp", "type": "whatsapp", "link": "https://wa.me/5355316989" },
     { "label": "YouTube", "type": "youtube", "link": "" },
     { "label": "Product Hunt", "type": "product-hunt", "link": "" }
   ],
@@ -32,7 +32,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -109,8 +109,14 @@
     },
     {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "Bandec MLC",
+      "value": "9225069992685912",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "Bandec CUP",
+      "value": "9224069993689971",
       "img": "./images/payments/card.svg"
     }
   ]
