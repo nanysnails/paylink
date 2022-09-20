@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
